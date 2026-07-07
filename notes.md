@@ -19,3 +19,9 @@ jupyter nbconvert --to html --no-prompt your_notebook.ipynb
 ```bash
 code ~/.config/ghostty/config
 ```
+
+#### npm查看全局安装的包
+
+```
+npm list -g --depth=0
+```
